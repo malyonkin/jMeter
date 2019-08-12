@@ -35,6 +35,11 @@
                     </goals>
                 </execution>
             </executions>
+            <configuration>
+                <testFilesIncluded>
+                    <jMeterTestFile>BO.jmx</jMeterTestFile>
+                </testFilesIncluded>
+            </configuration>
         </plugin>
 
     </plugins>

@@ -2,5 +2,6 @@
 используя сборщик Maven, добавить плагин (из статьи ниже)
 Положить в проект все тесты/файлы (*.jmx и тд) по пути - <Project Dir>/src/test/jmeter
 
+Запуск -
 
 https://github.com/jmeter-maven-plugin/jmeter-maven-plugin
